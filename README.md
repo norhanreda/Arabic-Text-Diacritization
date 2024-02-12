@@ -56,3 +56,36 @@ Final model used for the test set submission on Kaggle: **BLSTM model with char 
 <img src="images/comp33.png" alt="Alt text" width="250" height="500">
 </p>
 
+## Contributors <a name = "Contributors"></a>
+
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/asmaaadel0" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/88618793?s=400&u=886a14dc5ef5c205a8e51942efe9665ed8fd4717&v=4" width="150px;" alt="Asmaa Adel"/>
+    <br />
+    <sub><b>Asmaa Adel</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Samaa-Hazem2001" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/82514924?v=4" width="150px;" alt="Asmaa Adel"/>
+    <br />
+    <sub><b>Samaa Hazem</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/norhanreda" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/88630231?v=4" width="150px;" alt="norhan reda"/>
+    <br />
+    <sub><b>Norhan reda</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Hoda233" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/77369927?v=4" width="150px;" alt="HodaGamal"/>
+    <br />
+    <sub><b>HodaGamal</b></sub></a>
+    </td>
+  </tr>
+ </table>
+
+
+
