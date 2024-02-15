@@ -56,6 +56,13 @@ Final model used for the test set submission on Kaggle: **BLSTM model with char 
 <img src="images/comp33.png" alt="Alt text" width="250" height="500">
 </p>
 
+# demo video to the deployed model
+
+
+https://github.com/norhanreda/Arabic-Text-Diacritization/assets/88630231/957e03d9-2413-4c80-9397-f48874075f0e
+
+
+
 ## Contributors <a name = "Contributors"></a>
 
 <table>
